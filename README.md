@@ -9,7 +9,7 @@
 <li>2021 - QA, HTML5, CSS3 (6-day Marathon from GoIT)</li>
 <li>2021 - QA (SkillUp)</li>
 </ul>
-<h2 dir="auto"><a id="user-content--hammer_and_wrench-tools" class="anchor" href="https://github.com/SokolovaKsenia/Portfolio#-hammer_and_wrench-tools" aria-hidden="true"></a>Tools:</h2>
+<h2 dir="auto"><a id="user-content--hammer_and_wrench-tools" class="anchor" href="https://github.com/SokolovaKsenia/Portfolio#-hammer_and_wrench-tools" aria-hidden="true"></a>:wrench: Tools:</h2>
 <ul dir="auto">
 <li>Jira&nbsp;</li>
 <li>TestRail</li>
@@ -19,7 +19,7 @@
 <li>PyCharm&nbsp;</li>
 <li>VisualStudioCode&nbsp;</li>
 </ul>
-<h2 dir="auto">Tech skills</h2>
+<h2 dir="auto">:star2: Tech skills</h2>
 <ul dir="auto">
 <li>Test Design</li>
 <li>Defects reporting</li>

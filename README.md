@@ -44,4 +44,4 @@
 <li><a href="https://github.com/Rostyslav2022/Ros_robotframework.git">Robot Framework on Website testing(Dare IT)</a></li>
 </ul>
 <h2 dir="auto"><a id="user-content-mailbox-how-to-reach-me" class="anchor" href="https://github.com/SokolovaKsenia/Portfolio#mailbox-how-to-reach-me" aria-hidden="true"></a><img class="emoji" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png" alt="mailbox" width="20" height="20" /> Contact me</h2>
-<div id="badges"><a href="(linkedin.com/in/rostyslav-rakhuba-b4b34a221)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" /> </a> <a href="mailto:rostyslavrakhuba@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email" /> </a></div>
+<div id="badges"><a href="linkedin.com/in/rostyslav-rakhuba-b4b34a221"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" /> </a> <a href="mailto:rostyslavrakhuba@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email" /> </a></div>
